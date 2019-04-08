@@ -25,6 +25,7 @@ h3 {
 p {
   font-size: 1em;
   line-height: 1.5;
+  margin-bottom: 1.3em;
 }
 
 .logo {
@@ -53,16 +54,20 @@ a {
   text-decoration: none;
 }
 
+a:link {
+  color:#ffffff;
+}
+
 a:visited {
-  color:#0070BA;
+  color:#ffffff;
 }
 
 a:hover {
-  color:#0070BC;
+  color:#fff2dd;
 }
 
 a:active {
-  color:#0070BD;
+  color:#fcebcf;
 }
 
 ul {
